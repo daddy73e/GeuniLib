@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/yeongeunsong/Library/Developer/Xcode/DerivedData/GeuniLib-bhnonuguptxrdqghpprijfpudqgf/Build/Products/Debug-iphoneos/GeuniLib.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/yeongeunsong/Projects/GeuniLib/build/GeuniLib.build/Debug-iphoneos/GeuniLib.build/unextended-module.modulemap",
+    }]
+  }]
+}

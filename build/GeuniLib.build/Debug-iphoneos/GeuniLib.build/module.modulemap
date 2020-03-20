@@ -1,0 +1,11 @@
+framework module GeuniLib {
+  umbrella header "GeuniLib.h"
+
+  export *
+  module * { export * }
+}
+
+module GeuniLib.Swift {
+    header "GeuniLib-Swift.h"
+    requires objc
+}

@@ -1,0 +1,10 @@
+framework module GeuniLib {
+  umbrella header "GeuniLib.h"
+
+  export *
+  module * { export * }
+}
+
+module GeuniLib.__Swift {
+    exclude header "GeuniLib-Swift.h"
+}

@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "66c52de332704f0ee8909487be65124e"
+build_time: [1584688623, 447535000]
+inputs:
+  "/Users/yeongeunsong/Projects/GeuniLib/GeuniLib/GeuniTest.swift": [1584685588, 150582365]
